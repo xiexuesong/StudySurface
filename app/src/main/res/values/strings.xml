@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudySurface</string>
+    <string name="title_activity_study_image">StudyImageActivity</string>
+</resources>
